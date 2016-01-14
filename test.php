@@ -9,4 +9,4 @@ $bool = true;
 $int = (float)'12.6';
 // echo $int;
 
-var_dump($c);
+// var_dump($c);
